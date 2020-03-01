@@ -16,7 +16,8 @@ buildConfigField 'String', 'API_KEY', '"Your_App_key"'
 In order to use it you will need to register for a developer key here:
 https://api-portal.tfl.gov.uk/
 
-Technical details and Open-source libraries
+# Technical details and Open-source libraries
+
 Minimum SDK level 19
 
 Kotlin + MVVM + Coroutines
