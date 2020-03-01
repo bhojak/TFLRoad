@@ -9,7 +9,7 @@ Show details for an specific Road condition.
 
 # How to build on your environment
 
-1. Download zip file or pull in your local repository
+1. Download zip file or clone in your local repository
 
 2. open Android Studio and import project 
 
