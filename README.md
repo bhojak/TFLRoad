@@ -29,6 +29,8 @@ https://api-portal.tfl.gov.uk/
  
 6. A valid road names (Ex: A1, A2, A3) will gives you current status of road.
 
+7. Look in art directory for screenhots of app.
+
 # Technical details and Open-source libraries
 
 Minimum SDK level 19
