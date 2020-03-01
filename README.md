@@ -4,7 +4,9 @@ The TFL open API based project on Kotlin MVVM architecture + Coroutines
 Where we have 1 main use case:
 
 Get a detail information about Road maintained by TFL.
+
 Show details for an specific Road condition.
+
 How to build on your environment
 // replace this lines in the App build file
 
