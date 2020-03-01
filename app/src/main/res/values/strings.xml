@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TFLRoad</string>
+
+    <!-- Search  -->
+    <string name="search_desc">To find the road information you’re looking for, start typing. You can search roads information which were on today.</string>
+    <string name="search_cancel">Cancel</string>
+    <string name="search_hint">Enter your search</string>
+    <string name="you_can_type_here">you can type here ...</string>
+    <string name="search_get">GetInfo</string>
+
+    <string name="network_error">Please Check Network and try again.</string>
+
+    <string name="road_name">Road Name</string>
+    <string name="road_status">Road Status</string>
+    <string name="road_status_desc">Road Status Description</string>
+
+</resources>
